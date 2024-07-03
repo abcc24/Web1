@@ -45,7 +45,7 @@ const prompt = require('prompt-sync')();
 //console.log ("Hai inserito prima " + str); //console.log("") è come print
 //str = capitalizeFirstLetter(str);
 //console.log("Hai inserito dopo " + str);
-//process.exit(0); questo è per eseguire soltanto le funzioni prima di questa riga
+//process.exit(0); questo è per eseguire soltanto le funzioni prima di questa riga!
 
 
 var int1 = prompt("Inserisci primo numero: ");
